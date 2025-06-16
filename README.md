@@ -106,11 +106,11 @@ This project implements a **fully autonomous multi-agent system** built purely u
 
 1. Clone the repository:
    
-   ```git clone https://github.com/your-username/google-adk-agent.git```
-   ```cd google-adk-agent```
+   ```git clone https://github.com/arun4589/Resolve-AI.git```
+   ```cd multi_ai_agent```
    
 2. Create virtual environment
- ```python -m venv venv```
+```python -m venv venv```
 
 3. Activate it
 # On Windows:
@@ -119,17 +119,17 @@ This project implements a **fully autonomous multi-agent system** built purely u
 ```source venv/bin/activate```
 
 4. Install requirements
-  ```pip install -r requirements.txt``
+```pip install -r requirements.txt``
 
 5. Create .env file in same location as in folder structure
 
 6. use appropriate API keys in .env file
-   ```GOOGLE_GENAI_USE_VERTEXAI=FALSE```
-    ```GOOGLE_API_KEY= Your_google_api_key```
-    ```WEATHER_API_KEY=your_weather_api_key```
-    ```NEWS_API_KEY=your_news_api_key```
+```GOOGLE_GENAI_USE_VERTEXAI=FALSE```
+```GOOGLE_API_KEY= Your_google_api_key```
+```WEATHER_API_KEY=your_weather_api_key```
+```NEWS_API_KEY=your_news_api_key```
 7. run the following command to access the agents(you will get a link in terminal click on that)
-``` adk web``
+```adk web``
    
 
    
